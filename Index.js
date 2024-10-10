@@ -1,6 +1,6 @@
 
-let nomeHeroi = "Nome do Herói"; 
-let experiencia = 12000; 
+let nomeHeroi = "Juliana"; 
+let experiencia = 30000; 
 
 let nivel;
 
